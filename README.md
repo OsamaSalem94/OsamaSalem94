@@ -1,16 +1,19 @@
-### Hi there 👋
+![Header image](https://raw.githubusercontent.com/OsamaSalem94/OsamaSalem94/main/assets/GitHub_profile_header.jpg)
+<!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
+I'm a data analyst who loves exploring and analyzing new datasets. Check my LinkedIn for more info about me.
 
-<!--
-**OsamaSalem94/OsamaSalem94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Linkedin Badge](https://img.shields.io/badge/-Osama_Salem_Elsawalhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osama-salem-elsawalhi/)](https://www.linkedin.com/in/osama-salem-elsawalhi/)
+[![Hackerrank Badge](https://img.shields.io/badge/-Osama_Salem-2DC161?style=flat-square&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/Osama_Salem)](https://www.hackerrank.com/Osama_Salem)
+[![Kaggle Badge](https://img.shields.io/badge/-Osama_Elsawalhi-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/osamaelsawalhi)](https://www.kaggle.com/osamaelsawalhi)
+[![Gmail Badge](https://img.shields.io/badge/-eng.osama.94@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eng.osama.94@gmail.com)](mailto:eng.osama.94@gmail.com)
+## ⚡ Skills:
+- Data Wrangling
+- Data Scraping
+- Data Visualiztion
+- SQL
+- Python (Pandas, Numpy, Seaborn, Matplotlib)
+- Power BI
+- Tableau
