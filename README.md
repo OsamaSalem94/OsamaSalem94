@@ -9,11 +9,12 @@ I'm a data analyst who loves exploring and analyzing new datasets. Check my Link
 [![Hackerrank Badge](https://img.shields.io/badge/-Osama_Salem-2DC161?style=flat-square&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/Osama_Salem)](https://www.hackerrank.com/Osama_Salem)
 [![Kaggle Badge](https://img.shields.io/badge/-Osama_Elsawalhi-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/osamaelsawalhi)](https://www.kaggle.com/osamaelsawalhi)
 [![Gmail Badge](https://img.shields.io/badge/-eng.osama.94@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eng.osama.94@gmail.com)](mailto:eng.osama.94@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-osamasalem94.github.io/-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://osamasalem94.github.io/)](https://osamasalem94.github.io/)
 ## ⚡ Skills:
 - Data Wrangling
 - Data Scraping
 - Data Visualiztion
-- SQL
+- MySQL, PostgreSQL
 - Python (Pandas, Numpy, Seaborn, Matplotlib)
 - Power BI
 - Tableau
