@@ -1,6 +1,6 @@
 ![Header image](https://raw.githubusercontent.com/OsamaSalem94/OsamaSalem94/main/assets/GitHub_profile_header.jpg)
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
-I'm a data analyst who loves exploring and analyzing new datasets. Check my LinkedIn for more info about me.
+I'm a data scientist who loves exploring and analyzing new datasets. Check my LinkedIn for more info about me.
 
 
 
@@ -14,7 +14,9 @@ I'm a data analyst who loves exploring and analyzing new datasets. Check my Link
 - Data Wrangling
 - Data Scraping
 - Data Visualiztion
+- Data Structure and Algorithms
 - MySQL, PostgreSQL
 - Python (Pandas, Numpy, Seaborn, Matplotlib)
 - Power BI
 - Tableau
+- Machine Learning
